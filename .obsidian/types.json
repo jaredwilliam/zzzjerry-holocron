@@ -1,0 +1,29 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Priority": "number",
+    "date": "text",
+    "Area": "text",
+    "company": "multitext",
+    "effort": "text",
+    "type": "text",
+    "location": "multitext",
+    "status": "text",
+    "concepts": "multitext",
+    "source": "text",
+    "genres": "multitext",
+    "created": "text",
+    "encountered": "date",
+    "rank": "number",
+    "attendees": "multitext",
+    "people": "multitext",
+    "topics": "multitext",
+    "start date": "date",
+    "end date": "date",
+    "related": "multitext",
+    "MOCs": "multitext",
+    "maps": "multitext"
+  }
+}

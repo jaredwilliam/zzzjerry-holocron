@@ -1,0 +1,18 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./",
+  "showInlineTitle": true,
+  "newFileFolderPath": "",
+  "livePreview": true,
+  "foldHeading": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "foldIndent": true,
+  "promptDelete": false,
+  "showRibbon": true
+}

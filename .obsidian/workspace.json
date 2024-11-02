@@ -1,0 +1,407 @@
+{
+  "main": {
+    "id": "2d28a774bfa65759",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ae692d380614fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e6cb7ad89e0ea9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "30edc0f369dc3fe4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "58a72f949c21592d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Goals.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Goals"
+            }
+          },
+          {
+            "id": "2f08b4ccacd3d948",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Project Board"
+            }
+          },
+          {
+            "id": "ab5eb68ca7b23c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily/2024/11-Nov/2024-11-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-02"
+            }
+          },
+          {
+            "id": "498a6e4f08375910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Software Design Patterns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Design Patterns"
+            }
+          },
+          {
+            "id": "5c4c2fe3f531c91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/SOLID Design Principles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID Design Principles"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba1f7fe5fad01563",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71f59ac80062144",
+        "type": "tabs",
+        "dimension": 75.84215591915303,
+        "children": [
+          {
+            "id": "ae51f5d9e4ad27d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ca5d31cbc3891871",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bdc79d3fcd2cceb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "804d342a3040e76d",
+        "type": "tabs",
+        "dimension": 24.157844080846967,
+        "children": [
+          {
+            "id": "3fd24a7fd4ffbbe5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Calendar/Daily/2024/11-Nov/2024-11-02.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.12034063786994828,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 2024-11-02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "db2d2765a0d6fa9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6042a3887886d8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad32e7a96963e37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee11bc159243073e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Atlas/Sources/CS50 AI with Python.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for CS50 AI with Python"
+            }
+          },
+          {
+            "id": "ad309cb34809482a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atlas/Sources/CS50 AI with Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CS50 AI with Python"
+            }
+          },
+          {
+            "id": "6f438759a0d00124",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atlas/Sources/CS50 AI with Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CS50 AI with Python"
+            }
+          },
+          {
+            "id": "e7a2c4fcfc67eed3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df1106b49b2989cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/Daily/2024/11-Nov/2024-11-02.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-02"
+            }
+          },
+          {
+            "id": "8141cc09a158dde9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ab5eb68ca7b23c06",
+  "lastOpenFiles": [
+    "Atlas/Sources/CS50 AI with Python.md",
+    "Calendar/Daily/2024/11-Nov/2024-11-02.md",
+    "Atlas/Sources/Pasted image 20241102074819.png",
+    "Atlas/Utilities/Images/2024-11-02 cs50 ai constraint satisfaction 1.jpg",
+    "Atlas/Utilities/Images/2024-11-02 cs50 ai constraint satisfaction.jpg",
+    "Vision.md",
+    "Calendar/Daily/2024/11-Nov/2024-11-01.md",
+    "Calendar/Daily/2024/11-Nov",
+    "Atlas/Maps/Software Design Patterns.md",
+    "Atlas/Utilities/Templates/Project Template.md",
+    "Calendar/Daily/2024/10-Oct/2024-10-28.md",
+    "Project Board.md",
+    "Goals.md",
+    "Dashboard.md",
+    "Atlas/Maps/SOLID Design Principles.md",
+    "Projects/goal-tracking/README.md",
+    "Atlas/Maps/Single Responsibility Principle.md",
+    "Atlas/Utilities/Templates/Note Template.md",
+    "Atlas/Utilities/Templates/MOC Template.md",
+    "Atlas/Maps",
+    "Atlas/Utilities/Templates/Project Note Template.md",
+    "Atlas/Utilities/Templates/People Template.md",
+    "Atlas/Utilities/Templates/Meeting Template.md",
+    "Atlas/Utilities/Templates/Effort Template.md",
+    "Atlas/Utilities/Images/2024-10-30 cs50 AI local search.jpg",
+    "Atlas/Utilities/Images/2024-10-30 cs50 AI hidden markov.jpg",
+    "Atlas/Utilities/Images/2024-10-30 cs50 AI weather sensor model.jpg",
+    "Projects/goal-tracking/goal.py",
+    "Projects/goal-tracking",
+    "Projects/New folder",
+    "Atlas/Utilities/Images/2024-10-29 cs50 ai markov chain.jpg",
+    "Atlas/Utilities/Templates/goal_item_template.md",
+    "Goals/2024-10-28 - Test.md",
+    "Goals/2024-10-28 - Write 60 Book Summaries.md",
+    "Calendar/Weekly/2024/2024-W44.md",
+    "Goal and Project Index.md",
+    "Atlas/Utilities/Templates/OKR Template.md",
+    "Atlas/Notes/My Core Principles.md",
+    "Calendar/Weekly/2024",
+    "Calendar/Quarterly",
+    "Calendar/Weekly",
+    "views/total-progress-bar/view.js",
+    "views/total-progress-bar",
+    "Atlas/Utilities/Images/2024-10-12 Baby Yaga.JPEG",
+    "Atlas/Utilities/Images/IMG_0861.JPEG",
+    "Atlas/Utilities/Images/2024-10-12 cs 50 bayesian network example.jpg",
+    "Zettelkasten Workflow Diagram.canvas",
+    "LYT.canvas",
+    "_core_system/Reinvent Your life.canvas",
+    "__Inbox__/Notes Ontology.canvas"
+  ]
+}

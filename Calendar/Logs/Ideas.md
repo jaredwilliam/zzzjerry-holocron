@@ -1,0 +1,20 @@
+- PIF vs Combined Ratio
+- CR goes from higher to lower on x-axis
+- Can have arrows pointing from last month to this month
+- Maybe a video using tableau pages
+- CR by state of product
+- PIF growth by year
+- % PIFs growth
+- Projections on Growth
+- Animations in Tableau showing change over time
+- Chart races
+- [DIY Shelf for Bin Storage](https://www.reddit.com/r/BeginnerWoodWorking/comments/kmr7yv/lumber_prices_are_through_the_roof_but_heres_my/)
+- Butcher block for parents
+- French Cleat shelves for tool storage
+- Digital Garden Website with Jekyll
+- Learn how to use Command Shells as described in [[The Pragmatic Programmer]]
+- Get all work I do into Git and Version control - everything
+- Figure out how to properly use Git branches
+- GitHub Project writeup for work
+- Audit results vs severity of claims. I.e., does the frequency act accuracy
+- GitHub Project how-to

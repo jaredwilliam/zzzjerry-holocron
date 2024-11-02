@@ -1,0 +1,69 @@
+.callout[data-callout="atlas"] {
+    --callout-color: 241, 243, 239;
+    --callout-icon: map;
+}
+
+.callout[data-callout="calendar"] {
+    --callout-color: 25, 154, 18;
+    --callout-icon: calendar-days;
+}
+
+.callout[data-callout="effort"] {
+    --callout-color: 46,103,248;
+    --callout-icon: dumbbell;
+}
+
+.callout[data-callout="box"] {
+    --callout-color: 116, 149, 216;
+    --callout-icon: lucide-brain;
+}
+
+.callout[data-callout="boat"] {
+    --callout-color: 0,94,184;
+    --callout-icon: sailboat;
+}
+
+.callout[data-callout="leaf"] {
+    --callout-color: 64, 192, 87;
+    --callout-icon: leaf;
+}
+
+.callout[data-callout="script"] {
+    --callout-color: 134, 142, 150;
+    --callout-icon: scroll;
+}
+
+.callout[data-callout="blocks"] {
+    --callout-color: 77, 171, 247;
+    --callout-icon: blocks;
+}
+
+.callout[data-callout="user"] {
+    --callout-color: 77, 171, 247;
+    --callout-icon: user;
+}
+
+.callout[data-callout="book"] {
+    --callout-color: 255, 146, 43;
+    --callout-icon: book;
+}
+
+.callout[data-callout="video"] {
+    --callout-color: 151, 117, 250;
+    --callout-icon: clapperboard;
+}
+
+.callout[data-callout="puzzle"] {
+    --callout-color: 199, 196, 0;
+    --callout-icon: puzzle;
+}
+
+.callout[data-callout="joystick"] {
+    --callout-color: 233, 124, 238;
+    --callout-icon: joystick;
+}
+
+.callout[data-callout="compass"] {
+    --callout-color: 255, 146, 43;
+    --callout-icon: compass;
+}

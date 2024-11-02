@@ -1,0 +1,6 @@
+{
+  "folder": "Calendar/Daily",
+  "template": "Atlas/Utilities/Templates/Daily Template",
+  "format": "YYYY/MM-MMM/YYYY-MM-DD",
+  "autorun": true
+}

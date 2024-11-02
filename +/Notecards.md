@@ -1,0 +1,863 @@
+## The Compound Effect
+- It doesn't matter how smart you are or aren't, you need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If our competitor is smarter, more talented, or experienced, you simply need to work three or four times as hard. You can still beat them!
+- The only difference between becoming fabulously rich, happy, and healthy versus ending up broke, depressed, and unhealthy are the choices you make. 
+- The complete formula for getting lucky:
+	- Preparation (personal growth) + Attitude (belief/mindset) + Opportunity (a good thing coming your way) + Action (doing something about it)
+- Pick an area of your life where you want to be successful. Picture where you are now; picture where you want to be. Become conscious of every choice you make today so you can make better choices moving forward. Track every choice and action. 
+- The magic is not in the complexity of the task. The magic is in the doing of simple things repeatedly and long enough to ignite the miracle of the Compound Effect. 
+- The biggest difference between successful people and unsuccessful people is that successful people are willing to do what unsuccessful people are not. 
+- All winners are trackers. 
+- That's the power of little things adding up. It's not the big things that add up in the end. It's the hundreds, thousands, or million little things that separate the ordinary from the extraordinary. 
+- A daily routine built on good habits is the difference that separates the most successful amongst us from everyone else. 
+- Your choices are only meaningful when you connect them to your desires and dreams. 
+- Who do I need to become? If you want to have more, you have to become more. Success is not something you pursue. What you pursue will elude you; it can be like trying to chase butterflies. Success is something you attract by the person you become. 
+- Your life comes down to this formula:
+	- You -> Choice (decision) + Behavior (action) + Habit (repeated action) + Compound (time) = Goals
+- Of al the high-achievers and business leaders I've worked with and observed, I've noticed not only do they have good habits, but each has developed consistent routines for carrying out their daily disciplines. 
+- I don't want you thinking of the rhythms you can do for this week, month, or next ninety days. I want you to think about what you can do for the rest of your life. 
+- The most successful people, the truly top performers, are the ones willing to hire and pay for the best coaches and trainers there are. 
+- You get in life what you tolerate. What you have decided to tolerate is also reflected in the situations and circumstances of your life right now. You will get in life what you accept and expect you are worthy of. 
+- I felt miserable, and sometimes when you pick it up and just forget about how you're feeling and just engage for a little bit, it can kind of turn everything around. 
+- Don't wish it were easier; wish you were better. 
+- When you hit the wall in your disciplines, routines, rhythms, and consistency, realize that is when you are separating yourself from your old self, scaling that wall, and finding your more powerful, triumphant, and victorious self.
+- The real growth happens with what you do after you're at the wall. 
+- Another way to multiply your results is pushing past what other people expect of you - doing more than "enough".
+- Fine the line of expectation and then exceed it. 
+
+## The Power of Habit
+- As your habits change, so does your brain. 
+- > All our life, so far as it has definite form, is but a mass of habits. - William James
+- Though each habit means relatively little on its own, over time, the meals we order, what we say to our kids each night, whether we save or spend, how often we exercise, and the way we organize our thoughts and work routines have enormous impacts on our health, productivity, financial security, and happiness. 
+- From Duke University - more than 40% of the actions we perform each day weren't actual decisions, but habits. 
+- The Habit Loop: Cue -> Routine -> Reward -> 
+- Habits never really disappear. They're encoded into the structures of our brain, and that's a huge advantage for us, because it would be awful if we had to relearn how to drive after every vacation. 
+- Once we develop a routine, those patterns always remain inside our heads. Although, if we learn to create new neurological routines that overpower those behaviors - taking control of the habit loop - we can force those bad tendencies into the background. And once someone creates a new pattern, studies have demonstrated that they become as automatic as any other habit. 
+- To create a habit: (1) Find a simple and obvious cue; (2) Clearly define the rewards. 
+- Why habits are so powerful: They create neurological cravings. Most of the time, these cravings emerge so gradually that we're not really aware they exist, so we're often blind to their influences. 
+- There is nothing programmed into our brains that makes us see a box of doughnuts and automatically want a sugary treat. But once our brain learns that a doughnut box contains yummy sugar and other carbohydrates, it will start anticipating the sugar high. Our brains will push us towards the box. Then, if we don't eat the doughnuts, we will feel disappointed. 
+- Researchers found that people who successfully implemented a new habit focused on the craving for the reward when temptations arose, cultivated the craving into a mild obsession, and their cravings for that reward crowded out the temptation to drop the new habit. The craving drove the habit loop. I.e., when temped, focus on the craving for the reward. 
+- Figuring out how to spark a craving makes creating a new habit easier. 
+- You can never truly extinguish bad habits. To change a habit, you must keep the old cue, and deliver that old reward, but insert a new routine. 
+- The first step in habit reversal is to become aware of the habit. 
+- Once you're aware of how your habit works, once you recognize the cues and rewards, you're halfway to changing it. 
+- We don't really understand the cravings driving our behaviors until we look for them. 
+- If you identify the cues and rewards, you can change the routine. At least, most of the time. For some habits, there is one other necessary ingredient: belief. 
+- Belief was the ingredient that made a reworked habit loop into a permanent behavior. You need the capacity to believe that things will get better. 
+- Even if you give people better habits, it doesn't repair why they started the bad habit in the first place. Eventually they'll have a bad day, and no new routine is going to make everything seem okay. What can make a difference is believing that they can cope with that stress without the bad habit. 
+- For habits to permanently change, people must believe that change is feasible. 
+- Belief is easier when it occurs within a community. 
+- There is no specific set of steps guaranteed to change a habit. Habits cannot be eradicated - they must be replaced. Habits are most malleable if we keep the same cue and same reward but change the routine. For a habit to stay changed, people must believe change is possible. And most often, that belief only emerges with the help of a group. 
+- If you want to change a habit, you must find an alternative routine, and your odds of success go up dramatically when you commit to changing as part of a group. 
+- The habits that matter most are the ones that, when they start to shift, dislodge and remake other patterns (keystone habits). 
+- When people start habitually exercising, they start changing other, unrelated patterns in their lives, often unknowingly. For many people, exercise is a keystone habit that triggers widespread change. 
+- If you focus on changing or cultivating keystone habits, you can cause widespread shifts. 
+- A huge body of research has shown that small wins have enormous power, an influence disproportionate to the accomplishments of the victories themselves. > Once a small win has been accomplished, forces are set in motion that favor another small win. - A professor from Cornell. 
+- Keystone Habits create structure that help other habits to flourish. E.g., logging food (keystone) -> healthier eating -> losing weight
+- Grit - the tendency to work strenuously toward challenges, maintaining effort and interest over years despite failure, adversity, and plateaus in progress.
+- Keystone habits transform us by creating cultures that make clear the values that, in the heat of a difficult decision or a moment of uncertainty, we might otherwise forget. 
+- Dozens of studies show that willpower is the single most important keystone habit for individual success. The best way to strengthen willpower and give people a leg up is to make it into a habit. 
+- Willpower is a learnable skill. Willpower isn't just a skill, it's a muscle. 
+- As people strengthened their willpower muscles in one part of their lives (e.g., going to the gym), that strength spilled over into what they ate of how hard they worked. Once willpower became stronger, it touched everything. 
+- The most successful habits builders planned ahead of time how they would handle a specific moment of temptation (inflection points). They wrote clear instructions about how to deal with inflection points. Imagine unpleasant situations and write out a plan for responding. 
+- How willpower becomes a habit: by choosing a certain behavior ahead of time, and then following that routine when an inflection point arrives. 
+- When people are asked to do something that takes self control, if they think they are doing it for personal reasons - they feel like it's a choice or something they enjoy because it helps someone else - it's much less taxing. If they feel like they have no autonomy, if they're just following orders, their willpower muscles get tired much faster. When people are treated like cogs, rather than people, it took a lot more willpower. 
+- Simply giving employees a sense of agency - a feeling that they are in control, that they have genuine decision-making authority - can radically increase how much energy and focus they bring to their jobs. 
+- It may seem like most organizations make rational choices based on deliberate decision making. But really, firms are guided by long-held organizational habits, patterns that emerge from thousands of employees' independent decisions. And then habits have a profound impact. 
+- Organizational habits - or "routines" - are enormously important, because without them, most companies would never get any work done. 
+- For an organization to work, leaders must cultivate habits that both create a real and balanced peace, and paradoxically, make it absolutely clear who is in charge. 
+- A company with dysfunctional habits can't turn around simply because a leader orders it. Rather, wise executives seek out moments of crisis - or create the perception of one - and cultivate the sense that something must change, until everyone is finally ready to overhaul the patterns they live with each day. 
+- If you dress a new something in old habits, its easier for the public to accept it. 
+- To market a new habit you must understand how to make the novel seem familiar. 
+- Our goal is to help you replace some bad habits with some good habits that will help you grow. 
+- For an idea to grow beyond community, it must become self-propelling. And the surest way to achieve that is to give people new habits that help them figure out where to go on their own. 
+- Movements don't emerge because everyone suddenly decides to face the same direction at once. They rely on social patterns that begin as the habits of friendship, grow through the habits of communities, and are sustained by new habits that change particularly a sense of self. 
+- To modify a habit, you must decide to change it. You must consciously accept the hard work of identifying the cues and rewards that drive the habits' routines, and find alternatives. You must know you have control and be self-conscious enough to use it. 
+- Once you know a bad habit exists, you have the responsibility to change it. 
+- The will to believe is the most important ingredient in creating belief in change. 
+- If you believe you can change - if you make it a habit - the change becomes real. This is the real power of habit: the insight that your habits are what you choose them to be. Once that choice occurs - and becomes automatic - it's not only real, it starts to seem inevitable, the thing, as James wrote, that bears "us irresistibly toward our destiny, whatever the latter may be."
+- The way we habitually think of our surroundings and ourselves create the worlds that each of us inhabit. 
+- We need to see small victories to believe a long battle will be won. 
+- No matter how strong our willpower, we're guaranteed to fall back into our old ways once in a while. But if we plan for those relapses - if we take steps to make sure those slips don't become a habit - it's easier to get back on track. 
+- Focus on one thing at a time. 
+- The process of experimentation - and failure - is critical in long-term habit change. 
+- It's not that formulas don't exist. The problem is that there isn't one formula for changing habits. There are thousands. Individuals and habits are all different, and so the specifics of diagnosing and changing the pattern in our lives differ from person to person and behavior to behavior. 
+- The Framework: (1) Identify the routine (2) Experiment with rewards (3) Isolate the cue (4) Have a plan
+- A habit is a formula our brain automatically follows: When I see CUE, I will do ROUTINE in order to get a REWARD. 
+
+## Indistractable 
+- Removing online technology didn't work. I'd just replace the distraction with another. 
+- I discovered that living the life we want requires not only doing the right things; it also requires we stop doing the wrong things that take us off track. 
+- Distraction starts from within. 
+- The time you plan to waste is not wasted time. 
+- Distractions impede us from making progress toward the life we envision. 
+- Being indistractable means striving to do what you say you will do. 
+- > By pleasure, we mean the absence of pain in the body and of trouble in the soul. - Epicurus
+- Unless we deal with the root causes of our distraction, we'll continue to find ways to distance ourselves. 
+- Distraction is always an unhealthy escape from reality. 
+- Without dealing with the discomfort driving the desire for escape, we will continue to resort to one distraction or another. 
+- Only by understanding our pain can we begin to control it and find better ways to deal with negative urges. 
+- Distraction is just another way our brains attempt to deal with pain. 
+- If distraction costs us time, than time management is pain management. 
+- We shouldn't keep telling ourselves to stop thinking about an urge; instead, we must learn better ways to cope. 
+- Fun is looking for the variability in something other people don't notice. It's breaking through the boredom and monotony to discover its hidden beauty. 
+- The great thinkers and tinkerers of history made their discoveries because they were obsessed with the intoxicating draw of discovery - the mystery that pulls us in because we want to know more. 
+- Finding novelty is only possible when we give ourselves the time to focus intently on a task and look hard for the variability. 
+- Labeling yourself as having poor self-control actually leads to less self-control. Rather than telling ourselves we failed because we're somehow deficient, we should offer self-compassion by speaking to ourselves with kindness when we experience setbacks. 
+- Traction draws you toward what you want in life, while distraction pulls you away. 
+- If we don't plan our days, someone else will. 
+- You can't call something a distraction unless you know what it is distracting you from. 
+- Control the inputs, not the outcomes. 
+- Schedule time for yourself first. You are at the center of the three life domains. Without allocating time for yourself, the other two domains suffer. 
+- Show up when you say you will. You can't always control what you get out of the time you spend, but you can control how much time you put into the task. 
+- Input is much more certain than outcome. When it comes to living the life you want, making sure you allocate time to living your values is the only thing you should focus on. 
+- External triggers often lead to distraction. Cues in our environment life pings, dings, and rings, as well as interruptions from other people, frequently take us off track. 
+- External triggers aren't always harmful. If an external trigger leads us to traction, it serves us. 
+- One of the most effective ways to change our behavior is to change our identity. 
+- It doesn't so much matter what you do, but rather the work environment you do it in. 
+- Five key dynamics that set successful teams apart: (1) Dependability (2) Structure and clarity (3) Meaning of work (4) Impact of work (5) Psychological safety -> most important
+- It may be the case that children give up control of their attention when it's always managed by an adult. 
+
+## Peak Performance 
+- Stress + Rest = Growth
+- > The leaps and bounds I've made over the last several years have come from outside the training environment and how I choose to recover. - Deena Kastor
+- Stress demands rest, and rest supports stress. 
+- The best athletes in the world were systematically altering between bouts of very intense work and periods of easy training and recovery. 
+- The brightest minds spend their time either pursuing an activity with ferocious intensity, or engaging in complete restoration and recovery. 
+- Process for great intellectual and creative performers: (1) Immersion - total engagement in their work with deep, unremitting focus (2) Incubation - a period of rest and recovery when they are not at all thinking about their work (3) Insight - the occurrence of "aha" or "eureka" moments - the emergence of new ideas and growth in their thinking. 
+- Participants who were forced to flex their mental muscle (resisting temptation, solving a hard puzzle, making touch decisions) performed worse on a subsequent task that also required mental energy as compared to participants in a control group who had an easy first task, like eating cookies. 
+- Research shows that even if their bodies are fresh, the physical performance of people who are mentally fatigued suffers. 
+- Just like the body, by stressing and allowing the mind to recover, it also becomes stronger. 
+- > . . .  if you are interested in really improving as a performer, I would suggest incorporating the rhythm of stress and recovery into all aspects of your life. - Josh Waitzkin
+- Stress isn't just harmful; it can also serve as a stimulus for growth and adaptation. 
+- If the amount of stress is too large or lasts too long, the body fails to adapt. It actually does the opposite of growing stronger: it deteriorates. 
+- The effects of stress depend almost entirely on the dose. And when applied in the right does, stress does more than stimulate physiological adaptations. It stimulates psychological ones, too. 
+- Science shows that learning demands open-ended exploration that allows students to reach beyond their individual limits. 
+- Students who were forced to struggle on complex problems before receiving help from teachers outperformed students who received immediate assistance. 
+- Skills come from struggle. 
+- Growth comes at the point of resistance. Skills come from struggle. 
+- > It's only when you step outside your comfort zone that you grow. Being uncomfortable is the path to personal development and growth. It is the opposite of complacency. - Nic Lamb, Big Wave Surfer
+- Just like struggling to eke out one last repetition in the weight room is a great method for growing the body, struggling to the point of failure, and only then receiving assistance, is a great recipe for growing the mind. 
+- The best learning occurs when we really have to work for it. 
+
+| Challenge Level | Skill Level | State      |
+| --------------- | ----------- | ---------- |
+| Low             | Low         | Apathy     |
+| Low             | Medium      | Boredom    |
+| Low             | High        | Relaxation |
+| Medium          | Low         | Worry      |
+| Medium          | Medium      | Engagement          |
+| Medium          | High        | Control    |
+| High            | Low         | Anxiety    |
+| High            | Medium      | Arousal    |
+| High            | High        | Flow       |
+
+- Just-manageable challenges manifest when you take on something that makes you feel a little out of control but not quite anxious or overly aroused. 
+- A little doubt and uncertainty is actually a good thing: It signals that a growth opportunity has emerged. 
+- In every field that has been studied, when it came to differentiating top performers, experience was not the critical variable. 
+- The best violinists spent significantly more time intensely focused on mastering a specific goal, and remained totally present when doing so. They eliminated all distractions. They rarely, if ever, merely went through the motions. 
+- It isn't experience that sets top performers apart but the amount of deliberate practice they put in. Practice doesn't make perfect. Perfect practice makes perfect. 
+- Top performers actively seek out just-manageable challenges. 
+- What really differentiates deliberate practice is deep concentration. 
+- Across the board, when great performers are doing serious work their bodies and minds are 100% there. They are fully engaged in the moment. 
+- By doing one thing at a time and devoting his full concentration to that one thing, Dr. Bob is able to do many things well. Do only one thing at a time. 
+- Our brains don't work like computers. Effective multitasking is nothing more than effective delusional thinking. 
+- As countless studies show, the quality and, ironically, even the quantity of our work suffers when we are multitasking. 
+- Seemingly innocuous multitasking can cannibalize as much as 40% of someone's productive time. 
+- Great performers generally work in chunks of 60 to 90 minutes separated by a short break. 
+- No different from any other skill, deep work is a practice that must be cultivated over time. 
+- If we cultivate a growth mindset and believe that skills come from struggle, then we are more likely to expose ourselves to the good kind of growth - promoting stress. 
+- How we view stress weighs heavily on how stress influences us. 
+- Both elite and non-elite performers experience the same intensity of cognitive and physical stress. The difference was that the non-elites views stress as something to avoid, ignore, and try to quit. They felt stress would hurt their performance. The elites interpreted stress and its sensation as an aid to their performance. The elites exhibited a challenge response to stress, and, as a result, it didn't bother them as much. 
+- The sensations you feel prior to a big event are neutral - if you view them in a positive light, they are more likely to have a positive impact on your performance. 
+- By pushing us toward just-manageable challenges and enhancing how we'll respond to them, the right mindset opens up the possibility for growth to occur. 
+- Mindfulness meditation increases gray matter in the prefrontal cortex. 
+- By strengthening our prefrontal cortex, mindfulness allows us to recognize that we are having a stress response rather than automatically being overcome by it. 
+- A weak prefrontal cortex gets overpowered by a strong stress response. But a strong prefrontal cortex lets us choose how we want to respond to stress. It's not that elite runners don't feel pain and discomfort during their hard workouts, its just that they react differently. 
+- Being mindful doesn't just help the best athletes get through hard workouts, it also helps them recover. 
+- The best rest harder. 
+- Our most profound ideas often come from the small spaces in between otherwise deliberate thinking - when our brains are at rest. 
+- It's only when we turn off the conscious mind, shifting into a state of rest, that insights from the subconscious mind surface. 
+- > The subconscious is a crazily powerful thing. Its almost like the sole reason you do the work is to set the stage for what happens when you step away. - David Gross, Mathematics Professor at Ohio State
+- To reap the benefits of stress, you need to rest. 
+- Walking is the perfect gateway into the subconscious mind and for stimulating creative insight that can help us overcome mental gridlock. 
+- Sound mind and sound body go hand in hand. 
+- Mindfulness meditation can help improve your performance. 
+- We think we are missing out on a lot by sleeping, but in fact, we are missing out on far more by not sleeping. Sleep is one of the most productive things we can do. We don't grow when were in the gym or when we're immersed in our work. We grow in our sleep.
+- During sleep, on a very deep level we process the experiences and information that we gather while we are awake. 
+- In our sleep we grow. And we grow not just our cognitive and emotional muscles, but our physical ones too. 
+- The best athletes in the world all prioritize sleep just as much as they prioritize their hardest training sessions and their most important competitions. 
+- Napping does not make up for insufficient nighttime sleep. 
+- Naps can improve performance, alertness, concentration, and judgement. 
+- If we never take "easy" periods, we are never able to go full throttle and the "hard" periods end up being not that hard at all. 
+- Studies show that vigor and performance increase following a rest day, and the more someone actually rests on the weekends, the more effort they expand during the week. 
+- A well-timed rest day yields enormous dividends. Rest day allow you to recover from the accumulated stress of the recent past and revitalize you so that you can push harder in the near future. 
+- A week-long vacation can diminish or even completely eliminate burnout. But here's the catch: If the conditions that led to burnout in the first place aren't resolved, the symptoms of burnout inevitably return a few weeks later. 
+- Hard work only becomes smart and sustainable work when it's supported by rest. 
+- Great performers never just hope they'll be on top of their game. Rather, they actively create the specific conditions that will elicit their personal best. 
+- It is hard to do your best thinking when your mind isn't at peace. 
+- You can improve performance by priming yourself into a positive mood prior to important work that involves problem solving and creative thinking. 
+- Perhaps more than any other hormone, testosterone is linked to performance. It increases muscle growth, strength, and energy. In addition to profound effects on physiology, testosterone is also linked to enhanced creativity, confidence, memory, and attention. 
+- Developing a custom routine doesn't just condition us to perform. It enhances the performance itself. 
+- In order to be a maximalist, you have to be a minimalist. 
+- Reading broadly is a conduit to creativity. 
+- You should identify and strive to cut out all the superficial things in your life. You should be fully intentional with how you spend your most precious resource of all - time. 
+- You need to say no to a lot of things so that when it's time to say yes, you can do it with all your energy. 
+- In addition to fatiguing us over the course of a day, making decisions, even small ones, interrupts our acute train of thought. 
+- While we perform best on work that demands deep focus and attention during our peak hours, the opposite holds true for generating creative ideas. 
+- During our peak hours, when we are hyper alert and focused, our conscious mind is dominant. But during off-peak hours, as we become fatigued and struggle to maintain focus, our more creative mind has a better opportunity to shine. 
+- Just like diseases easily spread through thigh-knit groups, so does motivation. 
+- The makeup of your social circle has profound implications for your own behavior. 
+- > What is honored in a country will be cultivated there. - Plato. The same holds true for a team or social group. 
+- > Culture eats strategy for breakfast. - Peter Drucker
+- If we surround ourselves with those who support, motivate, and challenge us, we can reach greater heights than we could have alone. 
+- > The single greatest skill in any endeavor is doing the work. Not doing the work that is easy for you. Not doing the work that makes you look good. Not doing the work when you feel inspired. Just doing the work. - James Clear
+- The best performers are not consistently great. But they are great at being consistent. They show up every day and they do the work. 
+- The real secret of world-class performers is not the daily routines that they develop, but that they stick to them. That they show up, even when they don't feel like it. 
+- When people focus on a self-transcending purpose, or a purpose greater than themselves, they become capable of more then they ever thought was possible. 
+- Physical fatigue occurs not in the body, but in the brain. 
+- By focusing on something beyond ourselves and reflecting on our core values, we can all more courageously confront challenges and improve our performance. 
+- Linking one's work to a greater purpose enhances everyday performance. 
+- We constantly weigh our perceptions of effort associated with an activity against our motivation to do that activity. When perception of effort is greater than motivation, we slow down or ease up until the two are balanced. The more motivated we are, the greater the perception of effort we are willing to tolerate. You can improve performance by decreasing the perception of effort or by increasing motivation. 
+- When it comes to increasing motivation, doing something for others is far more effective than traditional incentives like money or reputation. 
+- Purpose fosters motivation; motivation lets us endure a greater perception of effort; and enduring a greater perception of effort often results in better performance. 
+- Grit is a hallmark of high achievers in every domain. Gritty people hang in there and persevere when others quit. 
+- When the going gets tough, gritty people draw upon a greater cause for inspiration and stick-to-itiveness. 
+- Giving back is a powerful antidote to burnout. 
+
+## How to Win Friends and Influence People
+- About 15% of one's financial success is due to one's technical knowledge and about 85% is due to skill in human engineering - to personality and the ability to lead people. 
+- > My popularity, my happiness, and sense of worth depend to no small extent upon my skill in dealing with people. 
+- Ninety-nine times out of a hundred, people don't criticize themselves for anything, no matter how wrong it may be. 
+- An animal rewarded for good behavior will learn much more rapidly and retain what it learns for more effectively than an animal punished for bad behavior. 
+- As much as we thirst for approval, we dread condemnation. 
+- The person we are going to correct and condemn will probably justify himself or herself, and condemn us in return. 
+- > Don't complain about the snow on your neighbor's roof when your own doorstep is unclean. - Confucius
+- Any fool can criticize, condemn, and complain - and must fools do. But it takes character and self-control to be understanding and forgiving. 
+- > A great man shows his greatness by the way he treats little men. 
+- Instead of condemning people, let's try to understand them. 
+- God himself does not propose to judge man until the end of his days. 
+- Don't criticize, condemn, or complain. 
+- There is only one way under high heaven to get anybody to do anything. And that is by making the other person want to do it. 
+- The only way I can get you to do anything is by giving you what you want. 
+- The deepest urge in human nature is the desire to be important. 
+- > I consider my ability to arouse enthusiasm among my people the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. There is nothing else that so kills the ambitions of a person as criticisms from superiors. I never criticize anyone. I believe in giving a person incentive to work. So I am anxious to praise but loath to find fault. If I like anything, I am hearty in my approbation and lavish in my praise. - Charles Schwab
+- In the long run, flattery will do you more harm than good. Flattery is counterfeit, and like counterfeit money, it will eventually get you into trouble if you pass it to someone else. 
+- Flattery is cheap praise. Flattery is telling the other person precisely what he thinks about himself. 
+- In our interpersonal relations we should never forget that all our associates are human beings and hunger for appreciation. It is the legal tender that all souls enjoy. 
+- > Every man I meet is my superior in some way. In that, I learn of him. - Emerson
+- Let's cease thinking of our accomplishments, our wants. Let's try to figure out the other person's good points. Then forget flattery. Give honest, sincere appreciation. Be "hearty in your approbation and lavish in your praise", and people will cherish your words and treasure them and repeat them over a lifetime - repeat them for years after you have forgotten them. 
+- Give honest and sincere appreciation. 
+- First, arouse in the other person an eager want. 
+- The only way to influence people is to talk in terms of what the other person wants. 
+- You may want to persuade somebody to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?"
+- > If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own. - Henry Ford
+- Looking at the other person's point of view and arousing in him an eager want for something is not to be construed as manipulating that person so that he will do something that is only for your benefit and his detriment. Each party should gain from the negotiation. 
+- When we have a brilliant idea, instead of making others think it is ours, why not let them cook and sir the idea themselves. They will then regard it as their own; they will like it and maybe eat a couple helpings of it. 
+- Fundamental techniques in handling people:
+	- Don't criticize, condemn, or complain
+	- Give honest and sincere appreciation
+	- Arouse in the other person an eager want
+- You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you. 
+- > It is the individual who is not interested in his fellow man who has the greatest difficulties in life and provides the greatest injury to other. It is from among such individuals that all human failures spring. - Alfred Adler
+- To be genuinely interested in other people is a most important quality for a salesperson to possess - for any person, for that matter. 
+- If we want to make friends, lets put ourselves out to do things for other people - things that require time, energy, unselfishness, and thoughtfulness. 
+- Lets greet people with animation and enthusiasm. Say "Hello" in tones that bespeak how pleased you are to have the person call. 
+- Showing a genuine interest in other not only wins friends for you, but may develop in its customers a loyalty to your company. 
+- The expression one wears on one's face is far more important than the clothes one wears on one's book. 
+- People who smile tend to manage, and sell more effectively, and raise happier children. 
+- People rarely succeed at anything unless they have fun doing it. 
+- > Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. - William James 
+- > There is nothing either good or bad, but thinking makes it so. - William Shakespeare
+- > Most folks are about as happy as they make up their minds to be. - Abraham Lincoln
+- The average person is more interested in his or her own name than in all the other names on Earth put together. Remember that name and call it easily, and you have paid a subtle and very effective compliment. 
+- Listening intently is one of the highest compliments we can pay anyone. 
+- People who talk only of themselves think only of themselves. Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be. 
+- If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that other persons will enjoy answering. Encourage them to talk about themselves and their accomplishments. 
+- Remember that the people you are talking to are a hundred times more interested in themselves and their wants and problems than they are in you and your problems. 
+- The royal road to a person's heart is to talk about the thing he or she treasures most. 
+- If we are so contemptibly selfish that we can't radiate a little happiness and pass on a bit of honest appreciation without trying to get something our of the other person in return, we shall meet with the failure we so richly deserve. 
+- Always make the other person feel important. 
+- The deepest principle in human nature is craving to be appreciated. 
+- Talk to people about themselves and they will listen for hours. 
+- Six ways to make people like you:
+	- Become genuinely interested in other people
+	- Smile
+	- Remember that a person's name is to that person the sweetest and most important sound in any language
+	- Be a good listener. Encourage other to talk about themselves. 
+	- Talk in terms of other people's interests. 
+	- Make the other person feel important - and do it sincerely. 
+- Why prove to a man he is wrong? Is that going to make him like you? Why not let him save his face? He didn't ask for your opinion. He didn't want it. Why argue with him? Always avoid the acute angle. 
+- A man convinced against his will is of the same opinion still. 
+- If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent's good will. 
+- Hatred is never ended by hatred but by love. 
+- How to keep a disagreement from becoming an argument:
+	- Welcome the disagreement
+	- Distrust your first instinctive impression
+	- Control your temper
+	- Listen first
+	- Look for areas of agreement
+	- Be honest
+	- Promise to think over your opponent's ideas and study them carefully
+	- Thank your opponents sincerely for their interest
+	- Postpone action to give both sides time to think through the problem
+- When one yells, the other should listen - because when two people yell, there is no communication, just noise and bad vibrations. 
+- > You cannot teach a man anything; you can only help him to find it within himself. - Galileo
+- Be wiser than other people if you can; but do not tell them so. 
+- You will never get into trouble by admitting that you may be wrong. 
+- Few people like to listen to truths that reflect on their judgement. 
+- Nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion. 
+- If we know we are going to be rebuked anyhow, isn't it for better to beat the other person to it and do it ourselves? Isn't it much easier to listen to self-criticism than to bear condemnation from alien lips?
+- Any fool can try to defend his or her mistakes - and most fools do - but it raises one above the herd and gives on a feeling of nobility and exultation to admit one's mistakes. 
+- When we are right, lets try to win people gently and tactfully to our way of thinking, and when we are wrong - and that will be surprisingly often, if we are honest with ourselves - let's admit out mistakes quickly and with enthusiasm. 
+- > By fighting you never get enough, but by yielding you get more than you expected. - Proverb
+- A drop of honey catches more flies than a gallon of gall. 
+- In talking with people, don't begin by discussing the things on which you differ. Begin by emphasizing - and keep on emphasizing - the things on which you agree. Keep emphasizing, if possible, that you are both striving for the same end and that your only difference is on of method and not of purpose. 
+- The Socratic Method - he would ask questions with which his opponent would have to agree.
+- > He who treads softly goes far. - Chinese Proverb
+- Remember that other people may be totally wrong. But they don't think so. 
+- If you say to yourself "How would I feel, how would I react if I were in his shoes?" you will save yourself time and irritation, for "by becoming interested in the cause, we are less likely to dislike the effect." And, in addition, you will sharply increase your skill in human relationships. 
+- Success in dealing with people depends on a sympathetic grasp of the other person's viewpoint. 
+- Cooperativeness in conversation is achieved when you show that you consider the other person's ideas and feelings as important as your own. 
+- Three-fourths of the people you will ever meet are hungering and thirsting for sympathy. Give it to them, and they will love you. 
+- > The way to get things done is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel. - Charles Schwab
+- > All men have fears, but the brace put down their fears and go forward, sometimes to death, but always to victory. - King's Guard of Ancient Greece
+- That is what every successful person loves: the game. The chance for self-expression. The chance to prove his or her worth, to excel, to win. 
+- Win people to your way of thinking:
+	- The only way to get the best of an argument is to avoid it
+	- Show respect for the other person's opinions. Never say "your wrong".
+	- If you are wrong, admit it quickly and emphatically. 
+	- Begin in a friendly way. 
+	- Get the other person saying "yes, yes" immediately. 
+	- Let the other person do a great deal of the talking. 
+	- Let the other person feel that the idea is theirs. 
+	- Try honestly to see things from the other person's point of view. 
+	- Be sympathetic with the other person's ideas and desires. 
+	- Appeal to the nobler motives. 
+	- Dramatize your ideas. 
+	- Throw down a challenge. 
+- It is always easier to listen to unpleasant things after we have heard some praise of our good points. 
+- Change "but" to "and". E.g., "We're really proud of you Johnny, for raising your grades this term. But if you had worked harder on your algebra, the results would have been better." --> "We're really proud of you, Johnny, for raising your grades this term, and by continuing the same conscientious efforts next term, your algebra grade can be up with all the others."
+- People are more likely to accept an order if they have had a part in the decision that caused the order to be issued. 
+- When criticism is minimized and praise emphasized, the good things people do will be reinforced and the poorer things will atrophy for lack of attention. 
+- Everybody likes to be praised, but when praise is specific, it comes across as sincere - not something the other person may be saying just to make one feel good. 
+- Tell someone they are doing something all wrong, you will destroy almost every incentive to try to improve. But, if you are liberal with your encouragement, they will practice until dawn comes in order to excel. 
+- How to be a Leader:
+	- Begin with praise and honest appreciation.
+	- Call attention to people's mistakes indirectly. 
+	- Talk about your own mistakes before criticizing the other person. 
+	- Ask questions instead of giving direct order. 
+	- Let the other person save face. 
+	- Praise the slightest improvement and praise every improvement. Be "hearty in your approbation and lavish in your praise".
+	- Give the other person a fine reputation to live up to. 
+	- Use encouragement. Make the fault seem easy to correct. 
+	- Make the other person happy about doing the thing you suggest. 
+- > If you chase two rabbits, you will not catch either one. - Russian Proverb
+
+## The One Thing
+- What's the one thing I can do today for ___ such that by doing it everything else will be easier or unnecessary?
+- What's the ONE THING you can do this week such that by doing it everything else would be easier or unnecessary?
+- Extraordinary results are directly determined by how narrow you can make your focus. 
+- Highly successful people know this. So every day they line up their priorities anew, find the lead domino, and whack away at it until it falls. 
+- Achievers always work from a clear sense of priority. 
+- The majority of what you want will come from the minority of what you do. 
+- Change to do lists into success lists.
+	- Could do, could do, should do, … , --> Should do, should do, … 
+- Big Idea - Go Small. Don't focus on being busy; focus on being productive. Allow what matters most to drive your day. 
+- Big Idea - Go Extreme. Once you've figured out what actually matters, keep asking what matters most until there is only one thing left. That core activity goes at the top of your success list. 
+- Big Idea - Say No. Whether you say "later" or "never", the point is to say "not now" to anything else you could do until your most important work is done. 
+- Big Idea - Don't get trapped in the "check off" game. If we believe things don't matter equally, we must act accordingly. We can't fall prey to the notion that everything has to be done, that checking things off our list is what success is all about. We can't be trapped in a game of "check off" that never produces a winner. The truth is that things don't matter equally and success is found in doing what matters most. 
+- Doing the most important thing is always the most important thing. 
+- It's not that we have too little time to do all the things we need to do, it's that we feel the need to do too many things in the time we have. 
+- Success is actually a short race - a sprint fueled by discipline just long enough for habit to kick in and take over. 
+- You can become successful with less discipline than you think, for one simple reason: success if about doing the right thing, not about doing everything right. 
+- When you do the right thing, it can liberate you from having to monitor everything. 
+- Those with the right habits seem to do better than others. They're doing the most important thing regularly and, as a result, everything else is easier. 
+- Do your most important work - your ONE THING - early. 
+- A balanced life is a lie. 
+- The reason we shouldn't pursue balance is that the magic never happens in the middle; magic happens at the extremes. 
+- When you gamble with your time, you may be placing a bet you can't cover. 
+- To achieve an extraordinary result you must choose what matters most and give it all the time it demands. This requires getting extremely out of balance in relation to all other work issues. 
+- Imagine life is a game in which you are juggling five balls. The balls are called work, family, health, friends, and integrity. And you're keeping all of them in the air. But one day you finally come to understand that work is a rubber ball. If you drop it, it will bounce back. The other four balls - family, health, friends, integrity - are made of glass. If you drop one of these, it will be irrevocably scuffed, nicked, perhaps even shattered. 
+- To be able to address your priorities outside of work, be clear about your most important work priority so you can get it done. Then go home and be clear about your priorities there so you can get back to work. 
+- No one knows their ultimate ceiling for achievement, so worrying about it is a waste of time. 
+- The only actions that become springboards to succeeding big are those informed by big thinking to begin with. 
+- Everyone has the same amount of time, and hard work is simply hard work. As a result, what you do in the time you work determines what you achieve. 
+- What you build today will either empower or restrict you tomorrow. 
+- Only living big will let you experience your true life and work potential. 
+- The quality of any answer is directly determined by the quality of the question. 
+- Life is a question and how we live it is our answers. How we phrase the questions we ask ourselves determines the answers that eventually become our life. 
+- Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. 
+- What's the one thing I can do such that by doing it everything else will be easier or unnecessary?
+- Big Picture: What is my one thing? Small Focus: What is my one thing right now?
+- What is the ONE THING for my: Spiritual Life, Physical Health, Personal Life, Key Relationships, Job, Business, Finances
+
+|       | Broad                            | Specific                                         |
+| ----- | :--------------------------------: | :------------------------------------------------: |
+| Big   | ❌ What can I do to double sales?   | ✔ What can I do to double sales in six months?     |
+| Small | ❌ What can I do to increase sales? | ❌ What can I do to increase sales by 5% this year? |
+
+- The research and experience of others is the best place to start when looking for your answer. 
+- > Even if you're on the right track, you'll get run over if you just sit there. - Will Rogers
+- Our purpose sets our priority and our priority determines the productivity our actions produce. 
+- Who we are and where we want to go determine what we do and what we accomplish. 
+- Happiness happens on the way to fulfillment. 
+- The prescription for extraordinary results is knowing that matters to you and taking daily doses of actions in alignment with it. 
+- Purpose without priority is powerless. 
+- The farther away a reward is in the future, the smaller the immediate motivation to achieve it. 
+- Someday Goal -> Five-Year Goal -> One-Year Goal -> Monthly Goal -> Weekly Goal -> Daily Goal -> Right Now
+- Putting together a life of extraordinary results simply comes down to getting the most out of what you do, when what you do matters. 
+- The most successful people are the most productive people. 
+- If disproportionate results come from one activity, then you must give that one activity disproportionate time. 
+- Resting is as important as working. 
+- The most productive people work on event time. They don't quit until their ONE THING is done. 
+- > Efficiency is doing the thing right. Effectiveness is doing the right thing. - Peter Drucker
+- There is magic in knocking down your most important domino day after day. 
+- When you see mastery as a path you go down instead of a destination you arrive at, it starts to feel accessible and attainable. 
+- More than anything else, expertise tracks with hours invested. 
+- > Are you doing this to simply do the best you can do, or are you doing this to do it the best it can be done? 
+	- The path of mastering something is the combination of not only doing the best you can do at it, but also doing it the best it can be done. 
+- Accountable people achieve results others only dream of.
+- Highly successful people are clear about their role in the events of their life. 
+- The single most important difference between amateurs and elite performers is that the future elite performers seek out teachers and coaches. 
+- When you say yes to something, it's imperative that you understand what you're saying no to. 
+- You can't please everyone, so don't try. 
+- A request must be connected to my One Thing for me to consider it. 
+- When you strive for greatness, chaos is guaranteed to show up. 
+- > If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign? - Albert Einstein
+- High achievement and extraordinary results require big energy. 
+- Your environment must support your goals. 
+- No one succeeds alone and no one fails alone. Pay attention to the people around you. 
+- > Surround yourself only with people who are going to lift you higher. Oprah Winfrey. 
+- > To get through the hardest journey we need take only one step at a time, but we must keep on stepping. - Chinese Proverb
+- > Only those who will risk going too far can possibly find our how far one can go. - T.S. Elliot
+- > Twenty years from now you will be more disappointed by the tings that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. - Mark Twain
+
+## Atomic Habits 
+- The two-step process to changing your identity:
+	- Decide the type of person you want to be
+	- Prove it to yourself with small wins
+- Are you becoming the type of person you want to become? The first step is not what or how, but who. You need to know who you want to be. 
+- Behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated. 
+- Habits do not restrict freedom. They create it. 
+- The Habit Loop: Cue -> Craving -> Response -> Reward
+- What you crave is not the habit itself, but the change in state it delivers. 
+
+|          | Create a Good Habit | Break a Bad Habit    |
+| -------- | ------------------- | -------------------- |
+| Cue      | Make it obvious     | Make it invisible    |
+| Craving  | Make it attractive  | Make it unattractive |
+| Response | Make it easy        | Make it difficult    |
+| Reward   | Make it satisfying  | Make it unsatisfying |
+
+- > Until you make the unconscious conscious, it will direct your life and you will call it fate. - Carl Jung
+- There are no good habits or bad habits. There are only effective habits. 
+- Does the behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?
+- Broadly speaking, the format for creating an implementation intention is: When situation X arises, I will perform response Y.
+- People who make a specific plan for when and where they will perform a new habit are more likely to follow through. 
+- To apply the implementation intention, fill out this sentence: I will {behavior} at {time} in {location}.
+- When your dreams are vague, it's easy to rationalize little expectations all day long and never get around to the specific things you need to do to succeed. 
+- You often decide what to do next based on what you have just finished doing. 
+- One of the best ways to build a new habit is to identify a current habit you already do each day and then stack your new behavior on top: After {current habit}, I will {new habit}. 
+- If you want to make a habit a big part of your life, make the cue a big part of your environment. 
+- "Disciplined" people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations. 
+- The people with the best self-control are typically the ones who need to use it the least. 
+- Perseverance, grit, and will power are essential to success, but they way to improve these qualities is not by wishing you were a more disciplined person, but by creating a more disciplined environment. 
+- You can break a habit but you're unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely - even if they go unused for quite a while. And that means that simply resisting temptation is an ineffective strategy. A more reliable approach is to cut bad habits off at the source. Once of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it. 
+- We have the brains of our ancestors but temptations they never had to face. 
+- Every behavior that is highly habit forming is associated with higher levels of dopamine. 
+- Dopamine is released not only when you experience pleasure, but also when you anticipate it. The wanting centers in the brain are large. The liking centers of the brain are much smaller. 
+- Desire is the engine that drives behavior. Every action is taken because of the anticipation that precedes it. It is the craving that leads to the response. 
+- The habit stacking + temptation bundling formula is:
+	- After {current habit}, I will {habit I need}. 
+	- After {habit I need}, I will {habit I want}. 
+- > A genius is not born, but is educated and trained. - Laszlo Polgar
+- One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior. 
+- Your culture sets your expectation for what is "normal". 
+- Whenever we are unsure how to act, we look to the group to guide our behavior. 
+- The normal behavior of the tribe often overpowers the desired behavior of the individual. 
+- The reward of being accepted is often greater than the reward of winning an argument, looking smart, or finding truth. 
+- When changing your habits means challenging the tribe, change is unattractive. When changing your habits means fitting in with the tribe, change is very attractive. 
+- Historically, a person with greater power and status has access to more resources, worries less about survival, and proves to be a more attractive mate.
+- Once we fit in, we start looking for ways to stand out. Every behavior has a surface level craving and a deeper, underlying motive. 
+- A craving is just a specific manifestation of a deeper underlying motive. Your brain did not evolve with a desire to smoke cigarettes or check Instagram or to play video games. At a deep level, you simply want to reduce uncertainty and relieve anxiety, to win social acceptance and approval, or to achieve status. 
+- Your habits are modern-day solutions to ancient desires. 
+- A craving is the sense that something is missing. It is the desire to change your internal state. 
+- Desire is the difference between where you are now and where you want to be in the future. 
+- You can make hard habits more attractive if you learn to associate them with a positive experience. 
+- You don't "have" to. You "get" to. By changing one word, you shift the way you view each event. You transition from seeing these behaviors as burdens and turn them into opportunities. 
+- We are so focused on figuring out the best approach that we never get around to taking action. > The best is the enemy of the good. - Voltaire. 
+- Being in motion versus taking action: When you're in motion, you're planning and strategizing and learning. Those are all good things, but they don't produce a result. Action on the other hand is the type of behavior that will deliver an outcome. 
+- Sometimes we stay in motion because we actually need to plan or learn more. But more often than not, we do it because motion allows is to feel like we're making progress without running the risk of failure. 
+- You don't want to merely be planning. You want to be practicing. If you want to master a habit, the key is to start with repetition, not perfection. 
+- Habits form based on frequency, not time. 
+- Instead of asking "how long does it take to build a new habit" you should ask "how many times does it take to build a new habit". That is, how many repetitions are required to make a habit automatic? You need to string together enough successful attempts until the behavior is firmly embedded in your mind and you cross the habit line. 
+- Conventional wisdom holds that motivation is the key to habit change. Maybe if you really wanted it, you'd actually do it. But the truth is, our real motivation is to be lazy and to do what is convenient. 
+- You don't actually want the habit itself. What you really want is the outcome the habit delivers. The greater the obstacle - that is, the more difficult the habit - the more friction there is between you and your desired end state. This is why it is crucial to make your habits so easy that you'll do them even when you don't feel like it. 
+- On tough days, it is crucial to have as many things working in your favor as possible so that you can overcome the challenges life naturally throws your way. The less friction you face, the easier it is for your stronger self to emerge. The idea behind make it easy is not to only do easy things. The idea is the make it as easy as possible in the moment to do things that pay off in the long run. 
+- Trying to pump up your motivation to stick with a hard habit is like trying to force water through a bent hose. You can do it, but it requires a lot of effort and increases the tension in your life. Meanwhile, making your habits simple and easy is like removing the bend in your hose. Rather than trying to overcome the friction in your life, you can reduce it. 
+- The central idea is to create an environment where doing the right thing is as easy as possible. Much of the battle of building better habits comes down to finding ways to reduce the friction associated with our good habits and increase the friction associated with our bad ones. 
+- Redesign your life so the actions that matter most are also the actions that are easiest to do. 
+- We are limited by where out habits lead us. 
+- The Two Minute Rule: When you start a new habit, it should take less than two minutes to do. 
+- The point is to master the habit of showing up. The truth is, a habit must be established before it can be improved. If you can't learn the basic skill of showing up, then you have little hope for mastering the finer details. Instead of trying to engineer a perfect habit from the start, do the easy thing on a more consistent basis. You have to standardize before you optimize. 
+- Strategies like the two minute rule work because they reinforce the identity you want to build. You are casting votes for your new identity. 
+- Sometimes success is less about making good habits and more about making bad habits hard. 
+- Commitment devices are useful because they enable you to take advantage of good intentions before you fall victim to temptation. 
+- The best way to break a bad habit is to make it impractical to do. Increase the friction until you don't even have the option to act. 
+- We are more likely to repeat a behavior when the experience is satisfying. 
+- The first three laws of behavior change - make it obvious, make it attractive, and make it easy - increase the odds that a behavior will be performed this time. The fourth law of behavior change - make it satisfying - increases the odds that a behavior will be repeated next time. It completes the habit loop. But there is a trick. We are not looking for just any type of satisfaction. We are looking for immediate satisfaction. 
+- You value the present more than the future. 
+- The consequences of bad habits are delayed while the rewards are immediate. 
+- With our bad habits, the immediate outcome usually feels good, but the ultimate outcome feels bad. With good habits, it is the reverse: the immediate outcome is unenjoyable but the ultimate outcome feels good. 
+- As a general rule, the more immediate pleasure you get from an action, the more strongly you should question whether it aligns with your long-term goals. 
+- Habit stacking ties your habit to an immediate cue, which makes it obvious when to start. Reinforcement ties your habit to an immediate reward, which makes it satisfying when you finish. 
+- It is worth noting that is is important to select short-term rewards that reinforce your identity rather than ones that conflict with it. 
+- Dyrsmid began each morning with two jars on his desk. One was filled with 120 paper clips. The other was empty. As soon as he settled in each day, he would make a sales call. Immediately after, he would move one paper clip from the full jar to the empty jar and the process would begin again. 
+- The mere act of tracking a behavior can spark the urge to change it. Habit tracking also keeps you honest. 
+- Habit tracking helps you keep your eye on the ball: you're focused on the process rather than the result. 
+- Never miss twice. 
+- The first mistake is never the one that ruins you. It is the spiral of repeated mistakes that follow. Missing once is an accident. Missing twice is the start of a new habit. 
+- Lost days hurt more than successful days help you. 
+- Sluggish days and bad workouts maintain the compound gains you've accrued from previous good days. 
+- When we choose the wrong measurement, we get the wrong behavior. 
+- When a measure becomes a target, it ceases to be a good measure. Measurement is only useful when it guides you and adds context to a larger picture, not when it consumes you. 
+- The more immediate the pain, the less likely the behavior. If you want to prevent bad habits and eliminate unhealthy behaviors, then adding an instant cost to the action is a great way to reduce their odds. 
+- If you're going to rely on punishment to change behavior, then the strength of the punishment must match the relative strength of the behavior it is trying to correct. To be productive, the cost of procrastination must be greater than the cost of action. 
+- The secret to maximizing your odds of success is to choose the right field of competition. 
+- The people at the top of any competitive field are not only well trained, they are also well suited to the task. And this is why, if you want to be truly great, selecting the right place to focus is crucial. In short: genes do not determine your destiny. They determine your opportunity. 
+- Choose the habit that best suits you, not the one that is most popular. 
+- If you are currently winning, you exploit, exploit, exploit. If you are currently losing, you continue to explore, explore, explore. 
+- If you have a lot of time it makes more sense to explore because once you find the right thing, you still have time to exploit it. If you're pressed for time, you should implement the best solution you've found so far and get some results. 
+- As you explore different options, there are a series of questions you can ask yourself to continually narrow in on the habits and areas that will be most satisfying to you: 
+	- What feels like fun to me, but work to others?
+	- What makes me lost track of time?
+	- Where do I get greater returns than the average person?
+	- What comes naturally to me?
+- Whenever you feel authentic and genuine, you are headed in the right direction. 
+- When you can't win by being better, you can win by being different. By combining your skills, you reduce the level of competition, which makes it easier to stand out. You can shortcut the need for a genetic advantage (or years of practice) by rewriting the rules. A good player works hard to win the game everyone else is playing. A great player creates a new games that favors their strengths and avoids their weaknesses. 
+- Our genes do not eliminate the need for hard work. They clarify it. 
+- The way to maintain motivation and achieve peak levels of desire is to work on tasks of "just manageable difficulty". 
+- The greatest threat to success is not failure but boredom. We get bored with habits because they stop delighting us. 
+- The difference between a professional and an amateur is stepping up when its annoying or painful or draining to do so. 
+- Habits + Deliberate Practice = Mastery
+- Mastery is the process of narrowing your focus to a tiny element of success, repeating it until you have internalized the skill, and then using this new habit as the foundation to advance to the next frontier of your development. 
+- The secret to getting results that last is to never stop making improvements. It's remarkable what you can build if you just don't stop. Small habits don't add up. They compound. That's the power of atomic habits. Tiny changes. Remarkable results. 
+- The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right. 
+- You need to regularly search for challenges that push you to your edge while continuing to make enough progress to stay motivated. 
+- At some point it comes down to who can handle the boredom of training every day, doing the same lifts over and over and over. 
+- Really successful people feel the same lack of motivation as everyone else. The difference is that they still find a way to show up despite the feelings of boredom. 
+
+## Hyper Focus
+- Studies show we can work for an average of just 40 seconds in front of a computer before we're either distracted or interrupted. 
+- By focusing deeply on just one important thing at a time - hyper focus - we become the most productive version of ourselves. 
+- The most focus-conducive environments are those in which you're interrupted and distracted the least. 
+- Write every distraction that makes its way into your mind by keeping a distraction list in a notebook. 
+- When you notice your focus fading, step back for a few minutes to do something relatively mindless. 
+- Directing your attention toward the most important object of your choosing - and then sustaining that attention - is the most consequential decision we will make throughout the day. We are what we pay attention to. 
+- Four types of tasks:
+
+|  | Unattractive | Attractive |
+| ---- | ---- | ---- |
+| Productive | Necessary work | Purposeful work |
+| Unproductive | Unneccesary work | Distracting work |
+
+- There is a finite limit to how many things we can focus on. 
+- After focusing on something, we can hold only a small amount of information in our short-term memory. 
+- If you're truly paying attention to the words on this page, you have almost no attentional space remaining for other tasks. 
+- Becoming aware of what you're thinking about is one of the best practices for managing your attention. 
+- Simply noticing what is occupying our attentional space has been shown to make us more productive. 
+- Continually seeking novel stimuli: makes us feel more productive - after all, we're doing more in each moment. But again, just because we're busier doesn't mean we're getting more accomplished. 
+- Productivity means accomplishing what we intend to. 
+- Being busy doesn't make us productive. 
+- Productivity is not about cramming more into our days but about doing the right thing in each moment. 
+- Switching tasks becomes easier only once we finish a task - especially when time pressure, like a deadline, motivates us to get the task done. 
+- One study found that when we continually switch between tasks, our work takes 50% longer, compared with doing one task from start to completion. If you're working on a pressure- or deadline-free project, consider taking a break before starting something else so more of that attentional residue can dissipate. 
+- You enter hyper focus by managing your attention deliberately and purposefully: by choosing one important object of attention, eliminating distractions that will inevitable arise as you work, and then focusing on just that one task. 
+- This is counterintuitive but absolutely essential advice: the more demands made on your time, the more essential it becomes to choose what - and how many - things you pay attention to. You're never too busy to hyper focus. 
+- The most important aspect of hyper-focus is that only one productive or meaningful task consumes your attentional space. 
+- One of the best ways to get more done - and done faster - is by preventing yourself from focusing on things that aren't important. 
+- To hyper focus:
+	- Choose a productive or meaningful object of attention
+	- Eliminate as many external and internal distractions as you can
+	- Focus on that chosen object of attention
+	- Continually draw your focus back to that one object of attention. 
+- It takes an average of 22 minutes to resume working on a task after we're distracted or interrupted. 
+- The best way to become more productive is to choose what you want to accomplish before you begin working. 
+- At the start of each day, choose the three things you want to have accomplished by day's end. 
+- The most important tasks on your list are the ones that lead to the greatest positive consequences. 
+- If you have a lot of tasks on your to-do list, ask yourself: which are the most consequential?
+- Setting specific intentions can double or triple your odds of success. 
+- The cost of an unrelated interruption can be massive: it takes an average of 25 minutes to resume working on an activity after we're interrupted, and before resuming that activity, we work on an average of 2.3 other tasks. We don't simply attend to the distraction or interruption and then return to the original task - we become distracted a second time before doing so. 
+- Once you become aware of how frequently you interrupt yourself, it's hard to go back to working the same way again. 
+- Four types of Distractions and Interruptions
+
+|  | Annoying | Fun |
+| ---- | ---- | ---- |
+| No Control | Office visitors, loud colleagues | Team lunches, calls from loved ones |
+| Control | Email, phone alerts | Social media, news websites |
+
+- The best possible way to respond to pleasurable, uncontrollable distractions is to make a concerted effort to embrace and actually allow yourself to enjoy them but still get back on track when you're able. 
+- How to deal with the Four Types of Distractions
+
+|  | Annoying | Fun |
+| ---- | ---- | ---- |
+| No Control | Deal with it and get back on track | Enjoy! |
+| Control | Deal with it ahead of time | Deal with it ahead of time |
+
+- By removing every object of attention that's potentially more stimulating and attractive than what you intend to do, you give your bran no choice but to work on that task. 
+- People who deploy distraction blockers are more productive and focus for longer periods of time. 
+- Clearing our head of open loops is critical so they don't distract us in the moment as we're trying to focus. 
+- Our brain is for having ideas, not for holding them. An empty brain is a productive brain, and the more stuff we get out of our heads the more clearly we think. 
+- Your brain will invariably resist more complex tasks, especially when you're first starting them - and when it does, you'll look around for more novel and stimulating things to do instead. 
+- When the challenge of completing a task is roughly equal to our ability to do so, we become totally immersed in the task (flow state).
+- Our work tend to expand to fit the available completion time. 
+- Doing mindless stuff at work or home is not only unproductive but also a sign you don't have enough important work. 
+- To measure if you have enough work in general, assess how much of your day you spend doing unproductive busywork. 
+- Scatter-focus enables you to do three powerful things at once: 
+	- It allows you to set intentions and plan for the future. 
+	- Let's you recharge. 
+	- Fosters creativity. 
+- Wandering thoughts about what we're currently working on usually prove to be fairly productive - we need to reflect on our tasks in order to work more deliberately. 
+- Scatter-focus mode lead you to:
+	- Become more self-aware
+	- Incubate ideas more deeply
+	- Remember and process ideas and meaningful experiences more effectively
+	- Reflect on the meaning of your experiences
+	- Show greater empathy
+	- Become more compassionate
+- The more often we scatter-focus to replenish our mental energy, the more energy we have for our most important tasks. 
+- The best time to take a break is before you need to. 
+- Taking a break is one of the most productive things you can do. 
+- Focus comes when we close distracting open loops. 
+- Writing down the detailed problems you're tackling at work and at home helps your mind continue to process them in the background. 
+- We are what we pay attention to, and almost nothing influences our productivity and creativity as much as the information we've consumed in the past. 
+- Getting information into our brain is akin to filling an Olympic-sized swimming pool with a garden hose. While we're able to hold a huge amount, we can fill it up only gradually. 
+- No two pieces of information are created equal. Consuming a book or having an engaging conversation with someone smarter than you will enable you to collect more valuable dots than doing something like watching TV or reading a gossip magazine. 
+- Practice isn't the thing you do once you're good. It's the thing you do that makes you good. 
+- Positive thinking lets us feel successful in the moment, but at the price of making an actual plan to become successful later. In practice, there is little difference between positive thinking and wishful thinking. 
+
+## The Subtle Art of Not Giving a Fuck
+- A man fights for what he wants, never gives up, and eventually achieves his wildest dreams. 
+- Never try to be anything other than what you are. 
+- The smallest dog barks the loudest. A confident man doesn't feel a need to prove that he's confident. 
+- The desire for a more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience. 
+- Everything worthwhile in life is won through surmounting the associated negative experiences. 
+- Not giving a fuck does not mean being indifferent; it means being comfortable with being different. 
+- To not give a fuck about adversity, you must first give a fuck about something more important than adversity. 
+- Whether you realize it or not, you are always choosing what to give a fuck about. 
+- The only way to overcome pain is to first learn how to bear it. 
+- Pain and loss are inevitable and we should let go of trying to resist them. 
+- Happiness comes from solving problems. 
+- True happiness occurs when you find the problems you enjoy having and enjoy solving. 
+- If you feel crappy its because your brain is telling you that there is a problem that's unaddressed or unresolved. 
+- Negative emotions are a call to action. 
+- What pain do you want in your life? What are you willing to struggle for? Choose your struggle. 
+- Because happiness requires struggle. It grows from problems. Joy doesn't just spout out of the ground like daisies and rainbows. Real, serous, lifelong fulfillment and meaning have to be earned through the choosing and managing of our struggles. Whether you suffer from anxiety or loneliness or obsessive-compulsive disorder or a dickhead boss who ruins half of your waking hours every day, the solution lies in the acceptance and active engagement of that negative experience - not the avoidance of it, not the salvation from it. (Related: The Obstacle is the Way).
+- Who you are is defined by what you're willing to struggle for. 
+- Our struggles determines our successes. 
+- It's a never ending upward spiral. And if you think at any point you're allowed to stop climbing, I'm afraid you're missing the point. Because the joy is in the climb itself. 
+- It turns out that adversity and failure are actually useful and even necessary for developing strong-minded and successful adults. 
+- A person who actually has a high self-worth is able to look at the negative parts of his character frankly and then acts to improve upon them. 
+- What most people don't correctly identify as entitlement are those people who perpetually feel as though they're inferior and unworthy of the world. Because constructing everything in life so as to make yourself out to be constantly victimized requires just as much selfishness as the opposite. It takes just as much energy and delusional self-aggrandizement to maintain the belief that one has insurmountable problems as that one has no problems at all. 
+- The rare people who do become truly exceptional at something do so not because they're exceptional. On the contrary, they become amazing because they're obsessed with improvement. And that obsession with improvement stems from an unerring belief that they are, in fact, not yet great at all. It's anti-entitlement. 
+- If suffering is inevitable, if our problems in life are unavoidable, then the question we should be asking is not "How do I stop suffering?" but "Why am I suffering - for what purpose?"
+- While there is something to be said for "stay on the sunny side of life", the truth is, sometimes life sucks, and the healthiest thing you can do is admit it. 
+- Constant positivity is a form of avoidance, not a valid solution to life's problems. 
+- When we force ourselves to stay positive at all times, we deny the existence of our life's problems. And when we deny our problems, we rob ourselves of the chance to solve them and generate happiness. 
+- Five Values:
+	- Take responsibility for everything that occurs in your life, regardless of who is at fault. 
+	- Acknowledge your own ignorance and cultivate constant doubt in your own beliefs. 
+	- Be willing to discover your own flaws and mistakes so that they may be improved upon. 
+	- Have the ability to both say and hear no, thus clearly defining what you will and will not accept in your life. 
+	- Contemplate your own mortality.
+- Often the only difference between a problem being painful or being powerful is a sense that we chose it, and that we are responsible for it. 
+- We don't always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond. 
+- "With great responsibility comes great power." The more we choose to accept responsibility in our lives, the more power we will exercise over our lives. 
+- Nobody else is ever responsible for your situation but you. Many people may be to blame for your unhappiness, but nobody is ever responsible for your unhappiness but you. 
+- The more you try to be certain about something, the more uncertain and insecure you will feel. 
+- The only way to achieve these things is to remain uncertain of them and be open to finding them out through experiences. 
+- Work expands so as to fill up the time available for its completion. 
+- The more something threatens your identity, the more you will avoid it. 
+- Buddhism argues that your idea of who "you" are is an arbitrary mental construction and that you should let go of the idea that "you" exist at all; that the arbitrary metrics by which you define yourself actually trap you, and thus you're better off letting go of everything. In a sense, you could say that Buddhism encourages you to not give a fuck. 
+- There is little that is unique or special about your problems. 
+- "It is the mark of an educated mind to be able to entertain a thought without accepting it." - Aristotle
+- How to be a little less certain of yourself: Ask - 
+	- What if I'm wrong?
+	- What would it mean if I was wrong?
+	- Would being wrong create a better or a worse problem than my current problem, for both myself and others?
+- Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you've failed at something. 
+- We can be truly successful only at something we're willing to fail at. If we're unwilling to fail, then we're unwilling to succeed. 
+- Life is about not knowing and then doing something anyway. 
+- If you're stuck on a problem, don't sit there and think about it; just start working on it. Even if you don't know what you're doing, the simple act of working on it will eventually cause the right ideas to show up in your head. 
+- Action isn't just the effect of motivation; it's also the cause of it. 
+- That's often all that necessary to get the snowball rolling, the action needed to inspire the motivation to keep going. You can become your own source of inspiration. You can become your own source of motivation. Action is always within reach. And with simply doing something as your only metric for success - well then even failure pushes you forward. 
+- Trust is like a China plate. If you break it once, with some care and attention you can put it back together again. But if you break it again, it splits into even more pieces and it takes far longer to piece together again. If you break it more and more times, eventually it shatters to the point where it's impossible to restore. There are too many broken pieces, and too much dust. 
+- "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time." - Mark Twain
+- They all say that happiness comes from the same thing: caring about something greater than yourself, believing that you are a contributing component in some much larger entity, that your life is but a mere side process of some great unintelligible production. 
+- This acceptance of my death, this understanding of my own fragility, has made everything easier - untangling my addictions, identifying and confronting my own entitlement, accepting responsibility for my own problems - suffering through my fears and uncertainties, accepting my failures and embracing rejections - it has all be made lighter by the thought of my own death. 
+
+
+
+## Digital Minimalism 
+- There's nothing wrong with connectivity, but if you don't balance it with regular doses of solitude, its benefits will diminish. 
+- "Only thoughts reached by walking have value." - Nietzsche
+- Solitude = freedom from other minds. 
+- "We have evidence that replacing your real-world relationships with social media use is detrimental to your well-being." - Holly Shakya
+- Extensive research supports the claim that the human brain has evolved to process the flood of information generated by face-to-face interactions. To replace this rich flow with a single bit is the ultimate insult to our social process machinery. To say it's like driving a Ferrari under the speed limit is an understatement; the better simile is towing a Ferrari behind a mule. 
+- A life well lived requires activities that serve no other purpose than the satisfaction that the activity itself generates. 
+- "People have the need to put their hands on tools and to make things. We need this in order to feel whole." - Gary Rogowski
+- Leisure Lessons:
+	- (1) Prioritize demanding activity over passive consumption.
+	- (2) Use skills to produce valuable things in the physical world. 
+	- (3) Seek activities that require real-world, structured social interactions. 
+- Fix or build something every week. 
+- You can't build a billion-dollar empire like Facebook if you're wasting hours everyday using a service like Facebook. 
+
+## Thinking in Systems
+- A system is a set of things - people, cells, molecules, or whatever - interconnected in such a way that they produce their own pattern of behavior over time. The system may be buffeted, constricted, triggered, or driven by outside forces. But the system's response to these forces is characteristic of itself. 
+- Systems have problems (e.g., poverty). No one wants those problems, no one creates them, and they persist. They are not caused by outside forces They are intrinsically systems problems - undesirable structures that produce them. 
+- Systems thinking lens allows us to reclaim our intuition about whole systems and - 
+	- See interconnections
+	- Ask what-if questions about possible future behaviors
+	- Be creative and courageous about system redesign
+- The behavior of a system cannot be known just by knowing the elements of which the system is made. 
+- A system is an interconnected set of elements that is coherently organized in a way that achieves something. A system must consist of:
+	- Elements
+	- Interconnections
+	- Function/purpose
+- A system is more than the sum of its parts. 
+- Purposes are deduced from behavior, not from rhetoric or stated goals. 
+- Many of the interconnections in systems operates through the flow of information. 
+- An important function of almost every system is to ensure its own perpetuation. 
+- A system generally foes on being itself, changing only slowly if at all, even with complete substitutions of its elements - as long as its interconnections and purposes remain intact. Changing interconnections in a system can change it dramatically. 
+- A change in purpose changes a system profoundly, even if every element and interconnection remains the same. 
+- The elements (the parts we are most likely to notice) are often least important in defining the unique characteristics of the system - unless changing an element also results in changing relationships or purpose. 
+- A stock is the memory of the history of changing flows within the system. 
+- Stock changes over time through the action of a flow. 
+- As long as the sum of all inflows exceeds the sum of all outflows, the level of stock will rise. As long as the sum of all outflows exceeds the sum of all inflows, the level of the stock will fall. If the sum of all outflows equal the sum of all inflows, the stock level will not change; it will be held in dynamic equilibrium at whatever level it happened to be when the two sets of flows became equal. 
+- Stock generally change slowly, even when the flows into or out of them change suddenly. Stocks act as delays or buffers or shock absorbers in systems. Flows take time to flow. Time lags from slowly changing stocks can cause problems or be sources of stability. 
+- Stocks allow inflows and outflows to be decoupled and independent and temporarily out of balance. 
+- Usually people monitor stocks, and make decisions and take actions designed to raise or lower stocks. Systems thinkers see the world as a collection of stocks along with the mechanisms for regulating the levels in the stock by manipulating flows. Systems thinkers see the world as a collection of "feedback processes".
+
+## Good to Great
+- Disciplined people, disciplined thought, disciplined action. 
+- The executives who ignited the transformations from good to great did not first figure out where to drive the bus and then get people to take it there. No, they first got the right people on the bus (and the wrong people off) and then figured out where to drive it. 
+- Three simple truths:
+	- If you being with "who" rather than "what" you can more easily adapt to a changing world. 
+	- If you have the right people on the bus, the problem of how to motivate and manage people largely goes away. 
+	- If you have the wrong people, it doesn't matter whether you discover the right direction; you still won't have a great company. 
+- It should be absolutely clear that there would only be seats for A+ players who were going to put forth A+ effort, and if you weren't up for it, you had better get off the bus, and get off now. 
+- It's not how you compensate your executives, it's which executives you have to compensate in the first place. The right executives will do everything within their power to build a great company not because of what they "get" for it, but because they simply cannot imagine settling for anything less. Their moral code requires building excellence for its own sake, and you're no more likely to change that with a compensation package than you're likely to affect whether they breathe. The right people will do the right things and deliver the best results they're capable of, regardless of the incentive system. 
+- In determining the "right people", character attributes > specific education background, practical skills, specialized knowledge, work experience
+- The only way to deliver to the people who are achieving is to not burden them with the people who are not achieving. 
+- How to be rigorous:
+	- When in doubt, don't hire - keep looking
+	- When you know you need to make a people change, act. 
+	- Put your best people on your biggest opportunities, not your biggest problems. 
+- The best people don't need to be managed. 
+- The good-to-great leaders invested substantial effort in determining whether they had someone in the wrong seat before concluding that they had the wrong person on the bus entirely. 
+- Managing your problems can only make you good, whereas building opportunities is the only way to become great. 
+- You absolutely cannot make a series of good decisions without first confronting the brutal facts. 
+- The moment a leader allows himself to become the primary reality people worry about, rather than reality being the primary reality, you have a recipe for mediocrity, or worse. 
+- How do you create a climate where truth is heard?
+	- Lead with questions, not answers.
+	- Engage in dialogue and debate, not coercion.
+	- Conduct autopsies, without blame.
+	- Build red flag mechanisms. 
+- Leading from good to great does not mean coming up with the answers and then motivating everyone to follow your messianic vision. It means having the humility to grasp the fact that you do not yet understand enough to have the answers and then to ask the questions that will lead to the best possible insights. 
+- You must never confuse faith that you will prevail in the end - which you can never afford to lose - with the discipline to confront the most brutal facts of your current reality, whatever they might be. 
+- The Stockdale Paradox - Retain faith that you will prevail in the end, regardless of the difficulties, and at the same time, confront the most brutal facts of your current reality, whatever they may be. 
+- The Hedgehog Concept:
+  ![[good_to_great_venn_diagram.jpg|250]]
+- All the good-to-great companies attained a very simple concept that they used as a frame of reference for all their decisions, and this understanding coincided with breath through results.
+- Just because something is your core business - just because you've been doing it for years or perhaps even decades - does not necessarily mean that you can be the best in the world at it. 
+- If you could pick one and only one ratio - profit per x - to systematically increase over time, what x would have the greatest and most sustainable impact on your economic engine?
+- The only way to remain great is to keep applying the fundamental principles that made you great. 
+- If you have the right Hedgehog Concept and make decisions relentlessly consistent with it, you will create such momentum that your main problem will not be how to grow, but how not to grow too fast. 
+- A cyclical process to the Hedgehog Concept:
+	- (1) Ask questions, guided by the three circles
+	- (2) Dialogue and debate, guided by the three circles
+	- (3) Executive decisions guided by the three circles
+	- (4) Autopsies and analysis guided by the three circles
+	- (1) … 
+- (1) Build a culture around the idea of freedom and responsibility, within a framework. (2) Fill that culture with self-disciplined people who are willing to go to extreme lengths to fulfill their responsibilities. They will "rinse their cottage cheese". (3) Don't confuse a culture of discipline with tyrannical disciplinarian. (4) Adhere with great consistency to the Hedgehog Concept, exercising an almost religious focus on the intersection of the three circles. Equally important, create a "stop doing list" and systematically unplug anything extraneous. 
+- The good-to-great companies built a consistent system with clear constraints, but they also gave people freedom and responsibility with the framework of that system. They hired self-disciplined people who didn't need to be managed, and then managed the system, not the people. 
+- When used right, technology becomes an accelerator of momentum, not a creator of it. The good-to-great companies neve began their transitions with pioneering technology, for the simple reason that you cannot make good use of technology until you know which technologies are relevant. And which are these? Those - and only those - that link directly to the three intersecting circles of the Hedgehog Concept. 
+- Good-to-great companies simply focused on accumulating results, often practicing the time-honored discipline of under-promising and over-delivering. 
+- Core values are essential for enduring greatness, but it doesn't seem to matter what those core values are. The point is not what core values you have, but that you have core values at all, that you know what they are, that you build them explicitly into the organization, and that you preserve them over time. 
+- Enduring great companies preserve their core values and purpose while their business strategies and operating practices endlessly adapt to a changing world. This is the magical combinations of "preserve the core and stimulate progress."
+- The overlap between "what you are deeply passionate about", "what you can be the best in the world", and "what drives your economic engine" should be your Big Hairy Audacious Goal. 
+- Build to Last Summary:
+	- Clock Building, Not Time Telling - Build an organization that can endure and adapt through multiple generations of leaders and multiple product life cycles, the exact opposite of being build around a single great leader or single great idea. 
+	- Genius of AND - Embrace both extremes on a number of dimensions at the same time. Instead of "A or B", figure out how to have "A and B" - purpose AND profit, community AND change, freedom AND responsibility. 
+	- Core Ideology - Instill core values and core purpose as principles to guide decisions and inspire people throughout the organization over a long period of time. 
+	- Preserve the Core / Stimulate Progress - Preserve the core ideology as an anchor point while stimulating change, improvement, innovation, and renewal in everything else. Change practices and strategies while holding core values and purpose fixed. Set and achieve BHAGs consistent with the core ideology. 
+	- The real question is not "why greatness", but "what work makes you feel compelled to try to create greatness". If you have to ask the question "why should we try to make it great - isn't success enough" then you are probably engaged in the wrong line of work.
+
+## 12 Rules For Life
+- Without rules we quickly become slaves to our passions - and there's nothing freeing about that. 
+- Left to our own untutored judgement, we are quick to aim low and worship qualities that are beneath us. 
+- Something of himself has to die, or be given up, so he can be reborn and meet the challenge. 
+- And the foremost rule is that you must take responsibility for your own life. 
+- If one wants to live a full life, one first set one's own house in order; and only then can one sensibly aim to take on bigger responsibilities. 
+- We are not happy, technically speaking, unless we see ourselves progressing. 
+- Maybe you are a loser. And maybe you're not - but if you are, you don't have to continue in that mode. Maybe you just have a bad habit. Maybe you're even just a collection of bad habits. 
+- It is far better to render Beings in your care competent than to protect them. 
+- It is not virtuous to be victimized by a bully, even if that bully is oneself. 
+- "He whose life has a why can bear almost any how." - Friedrich Nietzsche
+- If you have a friend whose friendship you wouldn't recommend to your sister, or your father, or your son, why would you have such a friend for yourself?
+- No matter how good you are at something, or how you rank your accomplishments, there is someone out there who makes you look incompetent. 
+- Every activity, once chosen, comes with its own internal standards of accomplishment. If something can be done at all, it can be done better or worse. To do anything at all is therefore to play a game with a defined and valued end, which can always be reached more or less efficiently and elegantly. 
+- Winning at everything might only mean that you're not doing anything new or difficult. You might be winning but you're not growing, and growing might be the most important form of winning. 
+- We live within a framework that defines the present as externally lacking and the future as eternally better. If we did not see things this way, we would not act at all. We wouldn't even be able to see, because to see we must focus, and to focus we must pick one thing above all else on which to focus. 
+- The present is eternally flawed. But where you start might not be as important as the direction you are heading. Perhaps happiness is always to be found in the journey uphill, and not in the fleeting sense of satisfaction awaiting at the next peak. 
+- Aim small. You do not want to shoulder too much to begin with, given your limited talents, tendency to deceive, burden of resentment, and ability to shirk responsibility. Thus, you set the following goal: by the end of the day, I want things in my life to be a tiny bit better than they were this morning. Then you ask yourself, "What could I do, that I would do, that would accomplish that, and what small thing would I like as a reward?" The you do what you have decided to do, even if you do it badly. Then you give yourself that damn reward, in triumph. 
+- What you aim at determines what you see. 
+- Life doesn't have the problem. You do. 
+- Making your life better means adopting a lot of responsibility, and that takes more effort and care than living stupidly in pain and remaining arrogant, deceitful, and resentful. 
+- You cannot aim yourself at anything if you are completely undisciplined an untutored. You will not know what to target, and you won't fly straight, even if you somehow get your aim right. And then you will conclude, "There is nothing to aim for." And then you will be lost. 
+- Your actions most accurately reflect your deepest beliefs. 
+- You can only find out what you actually believe (rather than what you think you believe) by watching how you act. You simply don't know what you believe before that. You are too complex to understand yourself. 
+- When someone does something you are trying to get them to do, reward them. 
+- Two general principles of discipline:
+	- Limit the rules
+	- Use the least force necessary to enforce those rules
+- Every gingerbread house has a witch inside it that devours children. 
+- Start to stop doing what you know to be wrong. 
+- The future is a judgmental father. 
+- Sacrifices are necessary, to improve the future, and larger sacrifices can be better. 
+- He that has once done you a kindness will be more ready to do you another than he whom you yourself have obliged. 
+- It is better to have something than nothing. It is better yet to share generously the something you have. It's even better than that, however, to become widely known for generous sharing. 
+- The successful among us delay gratification. The successful among us bargain with the future. 
+- Sometimes, when things are not going well, it's not the world that's the cause. The cause is instead that which is currently most valued, subjectively, and personally. 
+- If the world you are seeing is not the world you want, it's time to examine your values. It's time to rid yourself of your current presuppositions. It's time to let go. It might even be time to sacrifice what you love best, so that you can become who you might become, instead of staying who you are. 
+-  Aim up. Pay attention. Fix what you can fix. Don't be arrogant in your knowledge. Strive for humility. 
+- An aim, an ambition, provides the structure necessary for action. An aim provides a destination, a point of contrast against the present, and a framework, within which all things can be evaluated. An aim defines progress and makes such progress exciting. An aim reduces anxiety, because if you have no aim everything can mean everything or nothing, and neither of those two options make for a tranquil spirit. Thus, we have to think, and plan, and limit, and posit, in order to live at all. 
+- You are by no means only what you already know. You are also all that which would could know, if you only would. Thus, you should never sacrifice what you could be for what you are. You should never give up the better that resides within for the security you already have - and certainly not when you have already caught a glimpse of something beyond. 
+
+## Extreme Ownership
+- The only meaningful measure for a leader is whether the team succeeds or fails. For all the ways to describe a leader, only two matter: effective and ineffective. Effective leaders successful teams that accomplish their mission and win. Ineffective leaders do not. 
+- Taking full ownership of the situation actually increased the trust my commanding officer and master chief had in me. The SEALs in the troop, who did not expect me to take the blame and rather blame someone else, respected the fact that I had taken full responsibility for everything that happened. 
+- The leader is truly and ultimately responsible for everything. 
+- The leader must own everything in his or her world. 
+- Leaders that exercise Extreme Ownership cannot blame subordinates. The leader bears full responsibility for explaining the strategic mission, developing the tactics, and securing the training and resources to enable the team to properly and successfully execute. 
+- If an individual on a team is not performing, it is up to the leader to train and mentor him or her. But if the underperformer continually fails to meet team standards, the leader must put the team first. Leaders must be loyal to the team and the mission. 
+- A leader does not take credit for the team's successes, but bestows that honor upon his subordinates leaders and team members. 
+- You cannot make people listen or execute. Yelling or threats / intimidation is temporary and has other consequences. To implement real change you have to lead people. 
+- What could you, as a leader, do better to make sure your team executes the way you want?
+- When making a list of to-do items to make a change following a shortcoming or failure, make the list focused on what you are going to do differently, not about what other peopled need to do. 
+- It pays to be a winner. It really sucks to be a loser. 
+- There are no bad teams. Only bad leaders. 
+- If we wouldn't want to serve alongside our boat crew's weakest performers and we were all assigned to SEAL platoons in various SEAL Teams, we had no right to force other SEALS to do so. 
+- Leaders should never be satisfied. They must always strive to improve and they must build that mindset into the team. They must face the facts through a realistic, brutally honest assessment of themselves and their team's performance. 
+- (On a previous failure of a leader) His realistic assessment, acknowledgement of failure, and ownership of the problem were key to developing a plan to improve performance and ultimately win. Most important, he believed winning was possible. 
+- It's not what you preach, it's what you tolerate. 
+- If you allow the status quo to persist, you cannot expect to improve performance, and you cannot expect to win. 
+- (When he received an order from higher up and did not understand why his leadership made the choices) "I knew I had to adjust my perspective, to mentally step back from the immediate fight just outside the wire and think about this question from a strategic level, as if I were one of those leaders. Certainly they had the same goal we did: to win."
+- Discipline created vigilance and operational readiness, which translated to high performance and success on the battlefield. 
+- The leader must explain not just what to do, but why. 
+- Every leader must be able to detach from the immediate tactical mission and understand how it fits into strategic goals. When a leader receives an order that they themselves question and do not understand, they must ask 'why'?
+- A leader must be a true believer in the mission. He must always operate with the understanding that they are part of something greater than themselves and their own personal interest. He must align his thoughts and vision to that of the mission. 
+- Expressing doubt about a plan or mission in front of your troops/employees will increase their derision toward the mission exponentially. They would never believe in it, never commit to it, and it'll fail. 
+- If you don't ask questions so you can understand and believe in the mission, you are failing as a leader and failing your team. Ask questions until you understand why. 
+

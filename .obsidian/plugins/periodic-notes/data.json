@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/MM-MMMM/YYYY-MM-DD",
+    "folder": "Calendar/Daily",
+    "template": "Atlas/Utilities/Templates/Daily Template.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg/gggg-[W]ww",
+    "template": "Atlas/Utilities/Templates/Weekly Template.md",
+    "folder": "Calendar/Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "YYYY/YYYY-[Q]Q",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
